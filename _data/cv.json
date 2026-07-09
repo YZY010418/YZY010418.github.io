@@ -1,152 +1,133 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ziyi Yang (杨子毅)",
+    "label": "Ph.D. Candidate in Organic Chemistry",
+    "email": "yang-zy19@outlook.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://YZY010418.github.io",
+    "summary": "Ph.D. candidate at Tsinghua University working at the intersection of computational protein design, generative models, and chemical protein synthesis.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "Ziyi Yang",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "YZY010418",
+        "url": "https://github.com/YZY010418"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "ByteDance AI Drug Discovery",
+      "position": "Intern",
+      "startDate": "2026.04",
+      "endDate": "present",
+      "summary": "Peptide drug design.",
+      "highlights": []
+    },
+    {
+      "company": "Yanyan Lan Lab, Institute for AI Industry Research (AIR), Tsinghua University",
+      "position": "Intern",
+      "startDate": "2025.03",
+      "endDate": "present",
+      "summary": "Protein design with synthetic data and generative models.",
+      "highlights": []
+    },
+    {
+      "company": "Jishen Zheng Lab, University of Science and Technology of China",
+      "position": "Summer Visitor",
+      "startDate": "2023.06",
+      "endDate": "2023.07",
+      "summary": "Directed evolution of split inteins via phage display.",
+      "highlights": []
+    },
+    {
+      "company": "Peilong Lu Lab, Westlake University",
+      "position": "Summer Visitor",
+      "startDate": "2022.07",
+      "endDate": "2023.08",
+      "summary": "Mirror-image peptide binder design via the RIF pipeline.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Tsinghua University",
+      "area": "Ph.D. in Organic Chemistry",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2028 expected",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Tsinghua University",
+      "area": "B.S. in Chemical Biology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2019",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Research",
+      "keywords": [
+        "computational protein design",
+        "chemical protein synthesis",
+        "cyclic peptide binder design",
+        "mirror-image peptide binder design",
+        "chirality-aware generative models",
+        "glycosylation-assisted protein folding",
+        "split inteins"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Design Cyclic Peptide Binders",
+      "publisher": "NeurIPS",
+      "releaseDate": "2025-06-08",
+      "website": "https://openreview.net/pdf?id=CfOsKx3jF8",
+      "summary": "Large-scale cyclic-peptide-receptor structure data for model scaling in cyclic peptide binder design."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "CPSea2: Cyclic-Compatible Structure Data for Cyclic Peptide Binder Design",
+      "publisher": "Under review",
+      "releaseDate": "2026-06-08",
+      "website": "https://huggingface.co/datasets/YZY010418/CPSea2",
+      "summary": "Cyclic-compatible peptide-receptor structure data built with terminal amide pose screening."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Cross-Chirality Generalization by Axial Vectors for Hetero-Chiral Protein-Peptide Interaction Design",
+      "publisher": "ICML",
+      "releaseDate": "2026-02-13",
+      "website": "https://arxiv.org/abs/2602.20176",
+      "summary": "Chirality-aware generative modeling for hetero-chiral protein-peptide interaction design."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
+      "name": "Assist Protein Folding by Glycosylation",
+      "publisher": "Angewandte Chemie",
       "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "website": "",
+      "summary": "Glycosylation prevents aggregation during folding and expands access to chemically synthesized proteins."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
