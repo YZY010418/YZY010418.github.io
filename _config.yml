@@ -23,7 +23,7 @@ repository               : "YZY010418/YZY010418.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Photo.png"
   name             : "Ziyi Yang (杨子毅)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Organic Chemistry at Tsinghua University, combining computational protein design, generative models, and chemical protein synthesis to build beyond-biology proteins."
