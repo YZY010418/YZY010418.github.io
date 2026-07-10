@@ -41,12 +41,12 @@ Here is a summary of my previous research.
 * **Glycosylation-assisted protein folding.** I study how glycosylation can suppress aggregation during folding and enable the synthesis of proteins that are otherwise difficult to fold.
 * **Triple-split inteins.** I work on split intein systems for the total synthesis of ultra-large proteins (>100 kDa).
 
-## Publications
+## Selected Publications
 
 * **Cyclic peptide binder design.** CPSea1 was presented at NeurIPS 2025, and CPSea2 is currently under review. Dataset: [CPSea repo](https://github.com/YZY010418/CPSea).
 * **Chirality-aware generative modeling.** Mirror-image peptide binder design with explicit chirality features was accepted to ICML 2026. Preprint: [arXiv:2602.20176](https://arxiv.org/abs/2602.20176).
-* **Glycosylation-assisted folding.** Published in *Angewandte Chemie* in 2024 with Tian Wang, Wenjun Shi, and collaborators.
-* **Ultra-large protein synthesis.** Ongoing manuscript on triple-split inteins for the total synthesis of proteins larger than 100 kDa. Manuscript under preparation.
+* **Glycosylation-assisted folding.** Published in [Angewandte Chemie](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202313640) in 2024 with Tian Wang, Wenjun Shi, and collaborators.
+* **Ultra-large protein synthesis.** Ongoing manuscript on triple-split inteins for the total synthesis of proteins larger than 100 kDa. I mainly focus on this project in the first two years of my PhD.
 
 ## Experience
 
