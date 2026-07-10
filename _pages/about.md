@@ -1,13 +1,10 @@
 ---
-
 permalink: /
 title: "About Me"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 😊 Hi, I am Ziyi Yang, a Ph.D. candidate in Organic Chemistry at Tsinghua University. My work lies at the intersection of computational protein design and chemical protein synthesis, with the goal of designing and synthesizing functional proteins, including therapeutics, catalysts, materials, and beyond, that ***go beyond what evolution on Earth has explored***.
