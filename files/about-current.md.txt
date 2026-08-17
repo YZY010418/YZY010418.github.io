@@ -33,7 +33,7 @@ Here is a summary of my previous research.
 
 **Computational protein design**
 
-* **Cyclic peptide binders.** I build large-scale cyclic-peptide–receptor structure datasets by mimicking inter-chain interactions with intra-protein interfaces. This line of work supports model scaling for cyclic peptide binder design, and our synthetic data have been used by several teams.
+* **Cyclic peptide binders.** I build large-scale cyclic-peptide–receptor structure datasets by mimicking inter-chain interactions with intra-protein interfaces, named CPSea and CPSea2. This line of work supports model scaling for cyclic peptide binder design, and our synthetic data have been used by several teams.
 * **Mirror-image peptide binders.** I develop chirality-aware generative modeling methods for heterochiral design, including axial-vector and pseudoscalar features that help models learn and control molecular handedness.
 
 **Chemical protein synthesis**
@@ -45,7 +45,7 @@ Here is a summary of my previous research.
 
 * **Cyclic peptide binder design.** CPSea1 was presented at NeurIPS 2025, and CPSea2 is currently under review. Dataset: [CPSea repo](https://github.com/YZY010418/CPSea).
 * **Chirality-aware generative modeling.** Mirror-image peptide binder design with explicit chirality features was accepted to ICML 2026. Preprint: [arXiv:2602.20176](https://arxiv.org/abs/2602.20176).
-* **Glycosylation-assisted folding.** Published in *Angewandte Chemie* in 2024 with Tian Wang, Wenjun Shi, and collaborators.
+* **Glycosylation-assisted folding.** Published in *Angewandte Chemie* in 2024 with Tongyue Wang, Weiwei Shi, and collaborators.
 * **Ultra-large protein synthesis.** Ongoing manuscript on triple-split inteins for the total synthesis of proteins larger than 100 kDa. Manuscript under preparation.
 
 ## Experience
