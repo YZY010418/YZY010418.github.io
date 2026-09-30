@@ -50,8 +50,9 @@ Here is a summary of my previous research.
 
 ## Experience
 
-* **ByteDance AI Drug Discovery**, Intern, peptide drug design, 2026.04–2026.06.
+* **LiGIT AI**, Intern, 2026.07–present.
 * **Yanyan Lan Lab, Institute for AI Industry Research (AIR), Tsinghua University**, Intern, protein design with synthetic data and generative models, 2025.03–present.
+* **ByteDance AI Drug Discovery**, Intern, peptide drug design, 2026.04–2026.06.
 * **Jishen Zheng Lab, University of Science and Technology of China**, Summer visitor, directed evolution of split inteins via phage display, 2023.06–2023.07.
 * **Peilong Lu Lab, Westlake University**, Summer visitor, mirror-image peptide binder design via the RIF pipeline, 2022.07–2023.08.
 
