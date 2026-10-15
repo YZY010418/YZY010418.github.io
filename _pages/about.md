@@ -23,9 +23,10 @@ For natural proteins, evolution has already provided clues about which sequences
 The emergence of AI offers an opportunity to transfer knowledge from natural proteins and small molecules to the prediction and design of noncanonical proteins. Therefore, since April 2025, I have started exploring computational methods for noncanonical amino acid protein design.
 
 My previous research has focused on synthetic data and representation learning at peptide-level where the folding problem is relatively simple. I am currently working on designing larger proteins where ncAAs play important roles in their folding. I think my research interest is related to some long-term scientific questions, such as:
-(1) Can we solve the *general folding problem* that we can predict the folded conformation of macromolecules other than proteins?
-(2) Are there more folding motifs in the universe if we introduce ncAAs in the protein alphabet?
-(3) Do valuable functional molecules actually exist beyond the chemical space adopted by Earth lives?
+
+* (1) Can we solve the general folding problem: predicting the folded structures of macromolecules beyond proteins?
+* (2) Are there more folding motifs in the universe if we introduce ncAAs in the protein alphabet?
+* (3) Do valuable functional molecules actually exist beyond the chemical space adopted by Earth lives?
 
 With the power of AI and chemical protein synthesis, I believe we can begin to answer these questions.
 
@@ -101,7 +102,7 @@ I’ve watched almost every episode of *Detective Conan* when I was a child.
 I’m a big fan of *Detective Dee* and the classic *Sherlock Holmes* TV series starring Jeremy Brett.
 
 ### Philosophy of science
-I am also interested in Philosophy of Science and the History of Science. I think it is a natural curiosity for a science researcher.
+I am also interested in Philosophy of Science and the History of Science. I think it is a natural curiosity for a science researcher. [Prof. Wu Guosheng](https://baike.baidu.com/en/item/Wu%20Guosheng/1426608) and [Prof. Wang Wei](https://baike.baidu.com/en/item/Wang%20Wei/3482931?from=baikecn) really inspired me.
 
 ## Contact
 
