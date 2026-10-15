@@ -101,8 +101,8 @@ I’ve watched almost every episode of *Detective Conan* when I was a child.
 
 I’m a big fan of *Detective Dee* and the classic *Sherlock Holmes* TV series starring Jeremy Brett.
 
-### Philosophy of science
-I am also interested in Philosophy of Science and the History of Science. I think it is a natural curiosity for a science researcher. [Prof. Wu Guosheng](https://baike.baidu.com/en/item/Wu%20Guosheng/1426608) and [Prof. Wang Wei](https://baike.baidu.com/en/item/Wang%20Wei/3482931?from=baikecn) really inspired me.
+### Philosophy of Science
+I am also interested in philosophy of science and the history of science. I think these are subjects that naturally spark a scientist’s curiosity. [Prof. Wu Guosheng](https://baike.baidu.com/en/item/Wu%20Guosheng/1426608) and [Prof. Wang Wei](https://baike.baidu.com/en/item/Wang%20Wei/3482931?from=baikecn) really inspired me.
 
 ## Contact
 
