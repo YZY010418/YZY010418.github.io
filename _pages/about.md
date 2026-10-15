@@ -29,9 +29,9 @@ My previous research has focused on synthetic data and representation learning a
 
 With the power of AI and chemical protein synthesis, I believe we can begin to answer these questions.
 
-Here is a more detailed summary of my previous research.
+Here is a more detailed summary of my research.
 
-**Computational protein design**
+### Computational protein design
 
 * **Peptide Binder Design.**
   
@@ -41,10 +41,14 @@ Here is a more detailed summary of my previous research.
   * **Mirror-image Peptide Binders.** I developed a method to encode chirality into axial vectors or pseudoscalars to achieve chirality control and cross-chirality generalization. This enables the design of mirror-image peptide binders that show better stability and lower immunogenicity. This work has been accepted to ICML 2026. [PepMirror repo](https://github.com/YZY010418/PepMirror)
  
   * **NCAA Peptide Binders.** I am working on a method to design peptide binders with unlimited by controllable types of ncAA.
+ 
+* **Protein Design.**
 
-**Chemical protein synthesis**
+  I am currently mainly working on applying new algorithms on protein design where ncAAs play important roles in there folding. I hope more results can be released soon!
 
-* **Peptide Ligation.**  I spent my first two years of my PhD mainly on using split intein systems for the total synthesis of ultra-large proteins (>100 kDa). The manuscript is under preparation.
+### Chemical protein synthesis
+
+* **Protein Segment Ligation.**  I spent my first two years of my PhD mainly on using split intein systems for the total synthesis of ultra-large proteins (>100 kDa). The manuscript is under preparation.
 
 * **Protein Folding.** I studied how glycosylation can suppress aggregation during folding and enable the synthesis of proteins that are otherwise difficult to fold. These work were done when I was an undergraduate. [A paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202313640) has been published with senior members of Liu Lab.
 
@@ -60,6 +64,44 @@ Here is a more detailed summary of my previous research.
 
 * **Ph.D. in Organic Chemistry**, Tsinghua University, 2023–present. Expected graduation: June 2028.
 * **B.S. in Chemical Biology**, Tsinghua University, 2019–2023.
+
+## A Little More About Me
+
+### Mysteries
+
+I am a big fan of mysteries. **I’ve always felt that an important benchmark for AGI is its ability to write a mystery novel that truly draws me in.**
+
+* **Novels**
+
+My love of mystery fiction began with Keigo Higashino’s *Malice*, which sparked a period when I couldn’t get enough of the genre. Among the books that left a lasting impression on me are
+
+| Title | Author |
+|:-:|:-:|
+| *Malice* | Keigo Higashino |
+| *The Tokyo Zodiac Murders* | Soji Shimada |
+| *Crane of the North: 2/3 of a Murder* | Soji Shimada |
+| *The Kirigoe Mansion Murders* | Yukito Ayatsuji |
+| *Elephant Head* | Tomoyuki Shirai |
+| *The Detective’s Sacrifice* | Tomoyuki Shirai |
+| *Dogra Magra* | Kyusaku Yumeno |
+| *The Name of the Rose* | Umberto Eco |
+
+I'm always dreaming of writing my own mystery novels 🤣.
+
+* **Games**
+
+*Danganronpa* and *Umineko When They Cry* are two video games that have left the strongest impression on me. I’m also interested in murder mystery role-playing games and alternate reality games (ARGs).
+
+* **Anmie**
+
+I’ve watched almost every episode of *Detective Conan* when I was a child.
+
+* **TV Series**
+
+I’m a big fan of *Detective Dee* and the classic *Sherlock Holmes* TV series starring Jeremy Brett.
+
+### Philosophy of science
+I am also interested in Philosophy of Science and the History of Science. I think it is a natural curiosity for a science researcher.
 
 ## Contact
 
