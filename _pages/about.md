@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-😊 Hi, I am Ziyi Yang, a Ph.D. candidate in Organic Chemistry at Tsinghua University. My work lies at the intersection of computational protein design and chemical protein synthesis, with the goal of designing and synthesizing functional proteins, including therapeutics, catalysts, materials, and beyond, that ***go beyond what evolution on Earth has explored***.
+😊 Hi, I am Ziyi Yang, a Ph.D. candidate in Organic Chemistry at Tsinghua University. My work lies at the intersection of computational protein design and chemical protein synthesis, with the goal of designing and synthesizing functional proteins, including therapeutics, catalysts, materials, and more, that ***go beyond what evolution on Earth has explored***.
 
 [Download CV](/files/CV_Ziyi_Yang.pdf){: .btn .btn--primary}
 [GitHub](https://github.com/YZY010418){: .btn}
@@ -103,6 +103,10 @@ I’m a big fan of *Detective Dee* and the classic *Sherlock Holmes* TV series s
 
 ### Philosophy of Science
 I am also interested in philosophy of science and the history of science. I think these are subjects that naturally spark a scientist’s curiosity. [Prof. Wu Guosheng](https://baike.baidu.com/en/item/Wu%20Guosheng/1426608) and [Prof. Wang Wei](https://baike.baidu.com/en/item/Wang%20Wei/3482931?from=baikecn) really inspired me.
+
+### About Consciousness and Death
+
+I often reflect on death and self-awareness. I see the reluctance to discuss death as a form of avoidance, and I believe that those with a spirit of science should strive to understand it, and perhaps change it. I find Roger Penrose and Stuart Hameroff’s Orch OR theory an interesting proposal.
 
 ## Contact
 
