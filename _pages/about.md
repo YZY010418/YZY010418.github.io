@@ -22,35 +22,35 @@ For natural proteins, evolution has already provided clues about which sequences
 
 The emergence of AI offers an opportunity to transfer knowledge from natural proteins and small molecules to the prediction and design of noncanonical proteins. Therefore, since April 2025, I have started exploring computational methods for noncanonical amino acid protein design.
 
-My previous research has focused on synthetic data and representation learning, as summarized below. I am currently interested in reinforcement learning methods that incorporate feedback from wet-lab experiments to improve generative models. I am also exploring long-term scientific questions, such as:
-(1) Is homochirality an evolutionary accident, or is it dictated by a fundamental principle, namely that stable folding of heterochiral proteins is extremely rare?
-(2) Are there more folding motifs in the universe if we introduce more noncanonical amino acids to increase structural complexity?
-(3) Do valuable functional molecules exist beyond the chemical space adopted by life on Earth?
+My previous research has focused on synthetic data and representation learning at peptide-level where the folding problem is relatively simple. I am currently working on designing larger proteins where ncAAs play important roles in their folding. I think my research interest is related to some long-term scientific questions, such as:
+(1) Can we solve the *general folding problem* that we can predict the folded conformation of macromolecules other than proteins?
+(2) Are there more folding motifs in the universe if we introduce ncAAs in the protein alphabet?
+(3) Do valuable functional molecules actually exist beyond the chemical space adopted by Earth lives?
 
 With the power of AI and chemical protein synthesis, I believe we can begin to answer these questions.
 
-Here is a summary of my previous research.
+Here is a more detailed summary of my previous research.
 
 **Computational protein design**
 
-* **Cyclic peptide binders.** I build large-scale cyclic-peptide–receptor structure datasets by mimicking inter-chain interactions with intra-protein interfaces. This line of work supports model scaling for cyclic peptide binder design, and our synthetic data have been used by several teams.
-* **Mirror-image peptide binders.** I develop chirality-aware generative modeling methods for heterochiral design, including axial-vector and pseudoscalar features that help models learn and control molecular handedness.
+* **Peptide Binder Design.**
+  
+  * **Cyclic Peptide Design.** I built two large-scale peptide–receptor complex structure datasets, CPSea and CPSea2, based on the idea of (i) mimicking inter-chain interactions with intra-protein interfaces and (ii) decompose cyclic peptides into a linear peptide and a capping structure. These synthetic data supports model scaling for cyclic peptide binder design.
+    CPSea1 has been accepted to NeurIPS 2025, and CPSea2 has been accepted to NeurIPS 2026. [CPSea repo](https://github.com/YZY010418/CPSea), [CPSea2 repo](https://github.com/YZY010418/CPSea2)
+    
+  * **Mirror-image Peptide Binders.** I developed a method to encode chirality into axial vectors or pseudoscalars to achieve chirality control and cross-chirality generalization. This enables the design of mirror-image peptide binders that show better stability and lower immunogenicity. This work has been accepted to ICML 2026. [PepMirror repo](https://github.com/YZY010418/PepMirror)
+ 
+  * **NCAA Peptide Binders.** I am working on a method to design peptide binders with unlimited by controllable types of ncAA.
 
 **Chemical protein synthesis**
 
-* **Glycosylation-assisted protein folding.** I study how glycosylation can suppress aggregation during folding and enable the synthesis of proteins that are otherwise difficult to fold.
-* **Triple-split inteins.** I work on split intein systems for the total synthesis of ultra-large proteins (>100 kDa).
+* **Peptide Ligation.**  I spent my first two years of my PhD mainly on using split intein systems for the total synthesis of ultra-large proteins (>100 kDa). The manuscript is under preparation.
 
-## Selected Publications
-
-* **Cyclic peptide binder design.** CPSea1 was accepted to NeurIPS 2025, and CPSea2 was accepted to NeurIPS 2026. Dataset: [CPSea repo](https://github.com/YZY010418/CPSea).
-* **Chirality-aware generative modeling.** Mirror-image peptide binder design with explicit chirality features was accepted to ICML 2026. Preprint: [arXiv:2602.20176](https://arxiv.org/abs/2602.20176).
-* **Glycosylation-assisted folding.** Published in [Angewandte Chemie](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202313640) in 2024 with Tian Wang, Wenjun Shi, and collaborators.
-* **Ultra-large protein synthesis.** Ongoing manuscript on triple-split inteins for the total synthesis of proteins larger than 100 kDa. I mainly focus on this project in the first two years of my PhD.
+* **Protein Folding.** I studied how glycosylation can suppress aggregation during folding and enable the synthesis of proteins that are otherwise difficult to fold. These work were done when I was an undergraduate. [A paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202313640) has been published with senior members of Liu Lab.
 
 ## Experience
 
-* **LiGIT AI**, Intern, 2026.07–present.
+* **LigIT.AI**, Intern, 2026.07–present.
 * **Yanyan Lan Lab, Institute for AI Industry Research (AIR), Tsinghua University**, Intern, protein design with synthetic data and generative models, 2025.03–present.
 * **ByteDance AI Drug Discovery**, Intern, peptide drug design, 2026.04–2026.06.
 * **Jishen Zheng Lab, University of Science and Technology of China**, Summer visitor, directed evolution of split inteins via phage display, 2023.06–2023.07.
