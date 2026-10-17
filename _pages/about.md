@@ -49,9 +49,9 @@ Here is a more detailed summary of my research.
 
 ### Chemical protein synthesis
 
-* **Protein Segment Ligation.**  I spent my first two years of my PhD mainly on using split intein systems for the total synthesis of ultra-large proteins (>100 kDa). The manuscript is under preparation.
+* **Protein Segment Ligation.**  I spent my first two years of PhD mainly on using split intein systems for the total synthesis of ultra-large proteins (>100 kDa). The manuscript is under preparation.
 
-* **Protein Folding.** I studied how glycosylation can suppress aggregation during folding and enable the synthesis of proteins that are otherwise difficult to fold. These work were done when I was an undergraduate. [A paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202313640) has been published with senior members of Liu Lab.
+* **Protein Folding.** I studied how glycosylation can suppress aggregation during folding and enable the synthesis of proteins that are otherwise difficult to fold. These work were done when I was an undergraduate. I participated in [a paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202313640) about this strategy.
 
 ## Experience
 
@@ -74,7 +74,7 @@ I am a big fan of mysteries. **I’ve always felt that an important benchmark fo
 
 * **Novels**
 
-My love of mystery fiction began with Keigo Higashino’s *Malice*, which sparked a period when I couldn’t get enough of the genre. Among the books that left a lasting impression on me are
+My love of mystery fiction began with Keigo Higashino’s *Malice*, which started a period when I couldn’t get enough of this genre. Among the books that left a lasting impression on me are:
 
 | Title | Author |
 |:-:|:-:|
@@ -102,15 +102,27 @@ I’ve watched almost every episode of *Detective Conan* when I was a child.
 I’m a big fan of *Detective Dee* and the classic *Sherlock Holmes* TV series starring Jeremy Brett.
 
 ### Philosophy of Science
+
 I am also interested in philosophy of science and the history of science. I think these are subjects that naturally spark a scientist’s curiosity. [Prof. Wu Guosheng](https://baike.baidu.com/en/item/Wu%20Guosheng/1426608) and [Prof. Wang Wei](https://baike.baidu.com/en/item/Wang%20Wei/3482931?from=baikecn) really inspired me.
 
 ### About Consciousness and Death
 
-I often reflect on death and self-awareness. I see the reluctance to discuss death as a form of avoidance, and I believe that those with a spirit of science should strive to understand it, and perhaps change it. I find Roger Penrose and Stuart Hameroff’s Orch OR theory an interesting proposal.
+I sometimes reflect on death and self-awareness. I see the reluctance to discuss death as a form of avoidance, and I believe that those with a spirit of science should strive to understand it, and perhaps change it. I find Roger Penrose and Stuart Hameroff’s Orch OR theory an interesting proposal.
+
+### The Origin of Life and Complexity Science
+
+Anyone working on chemical protein synthesis might naturally wonder: *Could we achieve the total synthesis of a living system?* I became interested in this question in 2023, but after reading more about it, I struggled to find a concrete research direction.
+
+I think the origin-of-life problem actually encompasses two questions:
+
+* (i) How did life on Earth originate? A historical question.
+* (ii) How can life emerge from non-living matter? A question of chemistry or complexity science.
+  
+The former one can only be properly answered by fossils and geological evidences. The latter one is rather interesting, especially when you learn those concepts in complexity science for the first time. I think it is attractive to find physical systems that realize the patterns described by theories. Sadly, I found it really hard to construct such systems with only proteins and peptides.
 
 ## Contact
 
-I am happy to chat about AI, science, and visions for the future.
+I am happy to chat about something new.
 
 Email: [yang-zy19@outlook.com](mailto:yang-zy19@outlook.com)
 [yangzy23@mails.tsinghua.edu.cn](mailto:yangzy23@mails.tsinghua.edu.cn)
